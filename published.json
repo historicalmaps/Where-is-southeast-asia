@@ -18,8 +18,8 @@
           "url": ""
         },
         "text": {
-          "headline": "Describing the lands and people of India Orientalis",
-          "text": "<p>\n\n\n\n\n\n\n\n<p>This 1535 map\nof <i>India\nOrientalis</i>\nby\nGerman cartographer Lorenz Fries (1490 – 1531) includes information based on an earlier 1507\nworld map composed by Martin Waldseemüller.\nThat map, in turn, drew on accounts of Marco Polo’s 1290 voyage through the\nregion as he returned to Europe from China [4].</p>\n\n<p></p>\n\n<p>Historian Thomas Suarez describes this\nmap as a “cartographical landmark” because it isolates the area we\ntoday call Southeast Asia as a distinct entity [5].</p>\n\n<p>The map includes Latin text describing the people and natural resources of the\nterritories. The descriptions often include negative constructs and factual\ninaccuracies, which reflect European prejudices of the time, and so should be\nread with this understanding.</p></p>"
+          "headline": "Describing the lands and people of <span>India Orientalis</span>",
+          "text": "<p>This 1535 map of <i>India Orientalis</i> by German cartographer Lorenz Fries (1490 – 1531) includes information based on an earlier 1507 world map composed by Martin Waldseemüller. That map, in turn, drew on accounts of Marco Polo’s 1290 voyage through the region as he returned to Europe from China [4].</p><p>Historian Thomas Suarez describes this map as a \"cartographical landmark\" because it isolates the area we today call Southeast Asia as a distinct entity [5].</p><p>The map includes Latin text describing the people and natural resources of the territories. The descriptions often include negative constructs and factual inaccuracies, which reflect European prejudices of the time, and so should be read with this understanding.</p>"
         },
         "type": "overview"
       },
@@ -38,7 +38,7 @@
         },
         "text": {
           "headline": "Seylam: Colonial Ceylon, now  Sri Lanka.",
-          "text": "<p>\n\n\n\n\n\n\n\n<p>“This island is one of the largest and\nbest of the world. This island has a very rich king who is tributary to no one.\nThe men of this island are all idolaters and go about nude; they have no grain\nexcept rice, and they have precious stones.”</p>\n\n<p></p>\n\n<p>The term “idolator” had a more general\nmeaning than today, referring to those who worshipped idols or were thought to\nbe pagan.</p></p>"
+          "text": "<p>\"This island is one of the largest and best of the world. This island has a very rich king who is tributary to no one. The men of this island are all idolaters and go about nude; they have no grain except rice, and they have precious stones.\"</p><p>The term \"idolator\" had a more general\nmeaning than today, referring to those who worshipped idols or were thought to be pagan.</p>"
         }
       },
       {
@@ -56,7 +56,7 @@
         },
         "text": {
           "headline": "Peutan: Likely contemporary Bintan.",
-          "text": "<p>This is described in the annotation as a\n“very savage place” but also where sweet selling hard woods can be found [6].</p>"
+          "text": "<p>This is described in the annotation as a \"very savage place\" but also where sweet smelling hard woods can be found [6].</p>"
         }
       },
       {
@@ -73,8 +73,8 @@
           "url": ""
         },
         "text": {
-          "headline": "Java Minor: contemporary Sumatra",
-          "text": "<p>Sumatra\nis described\nhere as having eight kingdoms each with their own language, plenty of spices\nand where the people are “idolators” [7].&nbsp;</p>"
+          "headline": "Java Minor: Contemporary Sumatra.",
+          "text": "<p>Sumatra is described here as having eight kingdoms each with their own language, plenty of spices and where the people are \"idolators\" [7].</p>"
         }
       },
       {
@@ -92,15 +92,15 @@
         },
         "text": {
           "headline": "Angama: Unknown.",
-          "text": "<p>Angama was a name used at the time for the\nAndaman Islands, which lie well northwest of the island mapped. </p>\n\n<p></p>\n\n<p>“These men are idolaters who live like\nbeasts. There is an abundance of all aromatics there. The men have deformed\nheads, like the heads of dogs.” This map also\nincludes a depiction of\nthem as cannibals [8].</p>"
+          "text": "<p>Angama was a name used at the time for the Andaman Islands, which lie well northwest of the island mapped.</p><p>\"These men are idolaters who live like beasts. There is an abundance of all aromatics there. The men have deformed heads, like the heads of dogs.\" This map also includes a depiction of them as cannibals [8].</p>"
         }
       },
       {
         "date": "",
         "location": {
-          "lat": 69.03714171275197,
+          "lat": 67.941650035336,
           "line": true,
-          "lon": -20.0390625,
+          "lon": -19.951171875,
           "zoom": 4
         },
         "media": {
@@ -109,8 +109,8 @@
           "url": ""
         },
         "text": {
-          "headline": "Java Major: contemporary Java.",
-          "text": "<p><span>At the north of the island is identified\na “</span>forest\nof nutmeg.” Other things listed as found on the island include “pepper, nutmeg,\nspikenard, galingale, cloves, and an abundance of other kinds of spices” as\nwell as “forest of pepper” The island is described as being\nthree thousand miles in circumference, the people “idolators” and the king as\nsomeone who “pays tribute to no one” [9].</p>"
+          "headline": "Java Major: Contemporary Java.",
+          "text": "<p>At the north of the island is identified a \"forest of nutmeg.\" Other things listed as found on the island include \"pepper, nutmeg, spikenard, galingale, cloves, and an abundance of other kinds of spices\" as well as a \"forest of pepper\". The island is described as being three thousand miles in circumference, the people \"idolators\" and the king as someone who \"pays tribute to no one\" [9].</p>"
         }
       }
     ],
